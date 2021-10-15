@@ -1,4 +1,4 @@
-# E41201328_MOBILE TASK
+# E41201328_SELECTION WIDGET
  for WSI mobile Polije
 ![WhatsApp Image 2021-10-07 at 22 42 17 (3)](https://user-images.githubusercontent.com/80373053/136421441-439d89d2-c764-4713-a4ec-4f5488187588.jpeg)
 ![WhatsApp Image 2021-10-07 at 22 42 17 (2)](https://user-images.githubusercontent.com/80373053/136421452-9778320c-f918-4dbb-9590-e54a5c4b5c34.jpeg)
